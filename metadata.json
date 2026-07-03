@@ -1,0 +1,6 @@
+{
+  "name": "JRN Roofing Contractors",
+  "description": "Professional roofing contractors offering roof repairs, roof replacements, emergency roofing services, gutter repairs and free quotations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
